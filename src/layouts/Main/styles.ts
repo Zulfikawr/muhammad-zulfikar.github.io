@@ -16,6 +16,16 @@ import {
 // global "base" values for the rest of the app.
 export default {
   '@global': {
+    '::-webkit-scrollbar': {
+      width: '5px',
+    },
+    '::-webkit-scrollbar-thumb': {
+      backgroundColor: 'rgba(255, 255, 255, 0.5)',
+      borderRadius: '6px',
+    },
+    '::-webkit-scrollbar-track': {
+      backgroundColor: bgMidBlue,
+    },
     html: {
       fontSize: '62.5%',
     },

@@ -1,25 +1,35 @@
-<strong>url</strong> = "https://zul.pages.dev" <br>
+<h2>About me</h2>
+
+<hr>
+
+Hi, I'm Zulfikar,<br>
+I'm currently a 4th semester student at UPNVJ majoring in International Relations,<br>
+I'm really interested in topics related to data and computer science.
+
 <br>
-<strong>ask_me_about</strong> = {<br>
-    "Data Analysis", "Operating System", "Web Development", "International Relations"<br>
-}<br>
 
-<strong>tools</strong> = {<br>
-    programmingLanguages: {"Python", "SQL", "R", "Shell"},<br>
-    databases: {"BigQuery", "MsSQLServer", "MySQL"},<br>
-    visualization: {"Tableau", "Excel", "PowerBI", "Matplotlib", "Seaborn"},<br>
-    mathTools: {"NumPy", "Pandas", "SciPy"},<br>
-    software: {"Microsoft 365", "Google Workspace"},<br>
-    webdev: {"HTML", "CSS", "Javascript", "ReactJS"},<br>
-    operatingSystems: {"Windows", "Ubuntu", "Android"},<br>
-    editors: {"VSCode", "Jupyter Notebook", "Google Colab", "GitHub.dev", "ViM", "Notepad"}<br>
-}<br>
+### Tools
 
-<strong>skills</strong> = {<br>
-    "Decision making", "Problem solving", "Analytical thinking",<br>
-    "Time management", "Quick learner"<br>
-}<br>
+- <strong>software</strong>: Kaggle, Jupyter Notebook, Google Colab, GitHub Codespaces
+- <strong>languages</strong>: Python, SQL, R, HTML, CSS, Javascript, Shell
+- <strong>databases</strong>: BigQuery, MsSQLServer, MySQL
+- <strong>visualization</strong>: Tableau, Looker Studio, PowerBI, Excel, Matplotlib, Seaborn
 
-<strong>interests</strong> = {<br>
-    "Data", "Technology", "Coding", "Reading", "Music", "Tetris"<br>
-}<br>
+
+### Skills
+
+- Decision making
+- Problem solving
+- Analytical thinking
+- Time management
+- Quick learner
+
+
+### Interests
+
+- Data
+- Technology
+- Coding
+- Reading
+- Music
+- Tetris

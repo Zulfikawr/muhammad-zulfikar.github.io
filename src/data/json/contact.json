@@ -1,7 +1,14 @@
 [
   {
+    "name": "All Projects",
+    "url": "https://muhammad-zulfikar.notion.site/Zulfikar-s-Projects-5785e5a79c204f478e542941f42162d3",
+    "icon": ["fas", "briefcase"],
+    "isMain": true,
+    "text": "All Projects"
+  },
+  {
     "name": "Email",
-    "url": "mailto:zulfikar6556@gmail.com",
+    "url": "mailto:muhammadzulfikar@duck.com",
     "icon": ["fas", "envelope"],
     "isMain": true,
     "text": "E-mail"
@@ -14,14 +21,6 @@
     "text": "LinkedIn"
   },
   {
-    "name": "WhatsApp",
-    "url": "https://wa.me/+6285156453730",
-    "icon": ["fab", "whatsapp"],
-    "isMain": true,
-    "text": "WhatsApp"
-  },
-
-  {
     "name": "GitHub",
     "url": "https://github.com/muhammad-zulfikar",
     "icon": ["fab", "github"],
@@ -29,8 +28,22 @@
     "text": "GitHub"
   },
   {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/zulfikarmuhammad",
+    "icon": ["fab", "kaggle"],
+    "isMain": true,
+    "text": "Kaggle"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://wa.me/+6285156453730",
+    "icon": ["fab", "whatsapp"],
+    "isMain": true,
+    "text": "WhatsApp"
+  },
+  {
     "name": "Resume",
-    "url": "/resume.pdf",
+    "url": "images/resume/resume.pdf",
     "icon": ["fas", "file-pdf"],
     "isMain": false,
     "isCenter": true,

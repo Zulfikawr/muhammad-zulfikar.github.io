@@ -1,5 +1,5 @@
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { fab } from '@fortawesome/free-brands-svg-icons';
+import { faKaggle, fab } from '@fortawesome/free-brands-svg-icons';
 import {
   faHome,
   faGraduationCap,
@@ -18,6 +18,8 @@ import {
   faEnvelope,
   faPhoneAlt,
   faFilePdf,
+  faBriefcase,
+  faDatabase,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -39,4 +41,7 @@ library.add(
   faEnvelope,
   faPhoneAlt,
   faFilePdf,
+  faBriefcase,
+  faKaggle,
+  faDatabase,
 );

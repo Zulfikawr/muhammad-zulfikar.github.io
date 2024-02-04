@@ -3,7 +3,7 @@ import Greeter from '../views/Greeter';
 // eslint-disable-next-line
 import Diploma from '../views/Diploma';
 import { PageLink, TabLink } from '../models';
-import { jsOrange, midBlue } from '../theme/colors';
+import { jsOrange, midBlue, textBlue } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
@@ -37,7 +37,6 @@ export const pages: PageLink[] = [
   //   badge: `${calculateDiplomaProgress(csData, 0)}%`,
   //   comp: () => <Diploma diplomaData={csData} />,
   // },
-  // {
   //   name: 'Business Administration',
   //   url: '/ba',
   //   icon: 'graduation-cap',
@@ -68,6 +67,13 @@ export const tabs: TabLink[] = [
     icon: ['fab', 'js'],
     color: jsOrange,
     mdFileName: 'projects',
+  },
+  {
+    name: 'certification.sql',
+    url: '/certification',
+    icon: ['fas', 'database'],
+    color: textBlue,
+    mdFileName: 'certification',
   },
   {
     name: 'about.py',

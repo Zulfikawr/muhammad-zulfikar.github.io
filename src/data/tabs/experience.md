@@ -1,17 +1,12 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Experiences</title>
-  </head>
-  <body>
-```
+<h2>Experiences</h2>
+
+<hr>
 <br>
 <br>
 
-<img src="/images/quantium_logo.png" width=120 />
+<img src="/images/experience/quantium_logo.png" width=120 />
 
-</strong>quantium - Data Analyst Intern</strong> (January 2024 - Present)
+<strong>[quantium - Data Analyst Intern](https://quantium.com)</strong> (January 2024 - Present)
 
 - Analyzed over 200k row of transaction and customer data to identify trends and inconsistencies. 
 - Developed metrics and examine sales drivers to gain insights into overall sales performance. 
@@ -20,9 +15,9 @@
 <br>
 <br>
 
-<img src="/images/idx_logo.png" width=120 />
+<img src="/images/experience/idx_logo.png" width=120 />
 
-<strong>ID/X Partners - Data Scientist Intern</strong> (November 2023 - January 2024)
+<strong>[ID/X Partners - Data Scientist Intern](https://idxpartners.com)</strong> (November 2023 - January 2024)
 
 - Attended trainings on big data concepts, statistics, and data science to sharpen technical skills.
 - Tasked with analyzing and extracting insights from large, complex datasets using statistical modeling and machine learning techniques.
@@ -32,9 +27,9 @@
 <br>
 <br>
 
-<img src="/images/smrc_logo.png" width=120 />
+<img src="/images/experience/smrc_logo.png" width=120 />
 
-<strong>Saiful Mujani Research and Consulting - Data Collector</strong> (August 2023 - November 2023)
+<strong>[Saiful Mujani Research and Consulting - Data Collector](https://saifulmujani.com)</strong> (August 2023 - November 2023)
 
 - Conducted field research and in-depth interviews approach for prominent domestic political polling agency.
 - Independently interviewed participants using prescribed questionnaires and research methodologies,
@@ -43,16 +38,9 @@
 <br>
 <br>
 
-<img src="/images/himahi_logo.png" width=80 />
+<img src="/images/experience/himahi_logo.png" width=80 />
 
-<strong>Himpunan Mahasiswa Hubungan Internasional UPNVJ - Development Staff</strong> (January 2021 - January 2022)
+<strong>[Himpunan Mahasiswa Hubungan Internasional UPNVJ - Development Staff](https://fisip.upnvj.ac.id/himahi-2/)</strong> (January 2021 - January 2022)
 
 - Assisted and conceived the design of recurring tutoring sessions focusing on both academic topics and non-academic skills facilitate IR students at UPNVJ to develop and improve their knowledge and abilities.
 - Implemented a dynamic social media content strategy to showcase outstanding academic projects as well as creative talents within the faculty.
-
-<br>
-
- ```html   
-   </body>    
-</html>
-```

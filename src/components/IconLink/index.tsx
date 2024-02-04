@@ -50,8 +50,8 @@ const IconLink: React.FC<ContactItem> = ({
       href={url}
       key={`left-bar-${name}`}
       className={classes.link}
-      aria-label={`Find me on ${name}`}
-      title={`Find me on ${name}`}
+      aria-label={`${name}`}
+      title={`${name}`}
       target="_blank"
       rel="noopener noreferrer"
     >
