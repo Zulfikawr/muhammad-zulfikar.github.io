@@ -31,7 +31,7 @@
     "name": "Kaggle",
     "url": "https://www.kaggle.com/zulfikarmuhammad",
     "icon": ["fab", "kaggle"],
-    "isMain": true,
+    "isMain": false,
     "text": "Kaggle"
   },
   {

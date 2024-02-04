@@ -3,7 +3,7 @@
 <hr>
 
 Some of my featured projects.
-Visit [<strong>this link</strong>](https://www.notion.so/muhammad-zulfikar/Zulfikar-s-Projects-5785e5a79c204f478e542941f42162d3) to see more.
+Visit [<i>this link</i>](https://www.notion.so/muhammad-zulfikar/Zulfikar-s-Projects-5785e5a79c204f478e542941f42162d3) to see more.
 
 <br>
 
@@ -19,28 +19,28 @@ Visit [<strong>this link</strong>](https://www.notion.so/muhammad-zulfikar/Zulfi
 
 - ### [Rakamin Academy x ID/X Partners Internship: Final Projects](https://www.notion.so/muhammad-zulfikar/ID-X-Partners-Internship-Final-Projects-53d9400e07fe429d831b2ed494bd295e)
 
-> <strong>Description</strong>: Data science final project by [Rakamin Academy x ID/X Partners](https://www.rakamin.com/virtual-internship-experience/id-x-partners-data-scientist)
+> <i>Description</i>: Data science final project by [Rakamin Academy x ID/X Partners](https://www.rakamin.com/virtual-internship-experience/id-x-partners-data-scientist)
 
-> <strong>Tags</strong>: Data Science, Data Analysis, Kaggle, Python
+> <i>Tags</i>: Data Science, Data Analysis, Kaggle, Python
 
-> <strong>Published</strong>: January 31, 2024
+> <i>Published</i>: January 31, 2024
 
 <br>
 
 - ### [Google Play Store Analysis](https://www.notion.so/muhammad-zulfikar/Google-Play-Store-Analysis-f421d4ee25c745199fde3309df872216)
 
-> <strong>Description</strong>: Explored and analyzed app popularity, ratings, and reviews within Google Play Store.
+> <i>Description</i>: Explored and analyzed app popularity, ratings, and reviews within Google Play Store.
 
-> <strong>Tags</strong>: Data Analysis, Python, SQL, Looker Studio, Jupyter Notebook
+> <i>Tags</i>: Data Analysis, Python, SQL, Looker Studio, Jupyter Notebook
 
-> <strong>Published</strong>:
+> <i>Published</i>:
 
 <br>
 
 - ### [Data Analysis Internship Projects by quantium](https://www.notion.so/muhammad-zulfikar/quantium-Projects-4a6460df31db47bcb876bf4c3bdfbc98) <br>
 
-> <strong>Description</strong>:
+> <i>Description</i>:
 
-> <strong>Tags</strong>: Data Analysis, Python, Jupyter Notebook
+> <i>Tags</i>: Data Analysis, Python, Jupyter Notebook
 
-> <strong>Published</strong>: 
+> <i>Published</i>: 
