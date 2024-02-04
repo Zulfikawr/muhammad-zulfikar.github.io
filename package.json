@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/muhammad-zulfikar/muhammad-zulfikar.github.io"
   },
-  "homepage": "http://muhammad-zulfikar.github.io",
+  "homepage": "https://muhammad-zulfikar.github.io",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
@@ -21,12 +21,6 @@
     "lint:ci": "npm run lint -- --quiet",
     "lint:fix": "npm run lint -- --fix",
     "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "npm test"
-    }
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --fix"
